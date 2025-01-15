@@ -35,6 +35,11 @@ git clone git@github.com:DeratSonder/TymeXOnlineTest.git
   + Click the Run button (green triangle) to launch the app.
 Test the app to ensure it is functioning as expected.
 
+### App Demo URL:
+```bash
+https://youtube.com/shorts/iYB_Byl5tdM
+```
+
 ## 3. Run Challenge 02
 ### 3.1 Running Question 1.1 and Question 2.2
 - You can run Challenge 02 questions in any Kotlin IDE, but Android Studio is recommended for a better development experience.
