@@ -36,7 +36,7 @@ git clone git@github.com:DeratSonder/TymeXOnlineTest.git
 Test the app to ensure it is functioning as expected.
 
 ### App Demo URL:
-- [Youtube: ](https://youtube.com/shorts/iYB_Byl5tdM)
+- [https://youtube.com/shorts/iYB_Byl5tdM](https://youtube.com/shorts/iYB_Byl5tdM)
 
 
 ## 3. Run Challenge 02
